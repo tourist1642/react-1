@@ -6,4 +6,4 @@ needs we need to understand how many aplliances need to be automated. But as I a
 like it and take it as a resuable component for your future project.
 
 
-This was completelty built using HTML,SASS,JAVASCRIPT,REACT JS,REDUX
+This was completelty built using HTML,SCSS,JAVASCRIPT,REACT JS,REDUX
