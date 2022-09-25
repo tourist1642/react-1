@@ -28,7 +28,7 @@ export class Header extends Component {
               </NavigationItem>
               <NavigationItem>
                 <a
-                  href="#"
+                  href="https://github.com/tourist1642/react-1.git"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
